@@ -1,4 +1,4 @@
-# maqqi
+# GraphQL Country Lisitngs with Proper Providers
 
 A new Flutter project.
 
